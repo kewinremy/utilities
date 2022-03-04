@@ -1,5 +1,4 @@
 #!/bin/bash
-
 CERTIFICATE_PEM=certificate.pem
 CERTIFICATE_CRT=certificate.crt
 
